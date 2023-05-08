@@ -51,7 +51,7 @@
 
 </details>
 
-### What's Next? Test
+### What's Next?
 
 After you have completed this course, you are probably wondering where to go from here:
 
